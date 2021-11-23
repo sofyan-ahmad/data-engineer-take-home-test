@@ -1,7 +1,7 @@
 # Data Engineering Take Home
 
 ## Overview
-Candidate can use this code challenge as a showcase to demonstrate (s)he has skills and knowledge of both Data Enginering and Software Engineering practices.
+Candidate can use this code challenge as a showcase to demonstrate (s)he has skills and knowledge on Data Enginering.
 
 The candidate should be provided with 5 files:
 - This README file
