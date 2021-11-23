@@ -61,6 +61,9 @@ example: a credit card that start with `98` is not a valid card, it should be di
   - column 3: state
   - column 4: sum of number of byte of (column 1 + column 2 + column 3)
 
+# Part IV (Optional)
+- Create a simple BI dashboard using dataset
+
 ## Expectations
 As mentioned in the overview, we expect you to write unit tests.
 To get you started, we have provided a sample unit test in the other file in the assignment.
