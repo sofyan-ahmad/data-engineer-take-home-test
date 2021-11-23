@@ -62,7 +62,7 @@ example: a credit card that start with `98` is not a valid card, it should be di
   - column 4: sum of number of byte of (column 1 + column 2 + column 3)
 
 # Part IV (Optional)
-- Create a simple BI dashboard using dataset
+- Create a simple BI dashboard using the dataset
 
 ## Expectations
 As mentioned in the overview, we expect you to write unit tests.
